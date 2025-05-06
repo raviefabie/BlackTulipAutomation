@@ -3,7 +3,31 @@
    <description></description>
    <name>Android Mobile Tests with Katalon Studio</name>
    <tag></tag>
-   <UUID>1388abf0-8bae-4cd9-8586-5f3d094596aa</UUID>
-   <migratedVersion>5.4.0</migratedVersion>
+   <UUID>ebedfeec-9f0c-4d6b-8c03-1d1e8f60cdd4</UUID>
+   <freeLicense>true</freeLicense>
+   <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\SYAFIQ\Katalon Studio\Black Tulip\Android Mobile Tests with Katalon Studio.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
+   <type>MOBILE</type>
 </Project>
